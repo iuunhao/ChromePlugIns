@@ -38,9 +38,10 @@
     * [PageSpeed Insights (with PNaCl)](https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh) - 页面优化检测。
     * [RegExp Tester](https://chrome.google.com/webstore/detail/regexp-tester/fekbbmalpajhfifodaakkfeodkpigjbk) - 正则表达式测试工具。
     * [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) - 测试HTTP请求。
-    * [CSS Grady](https://chrome.google.com/webstore/detail/css-grady/gdhlnmdfoeaagdlljpiklddgfnfidfli) -CSS渐变生成器。
+    * [CSS Grady](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 可以快速调整浏览器窗口的尺寸，用于观察网站页面宽度。
+    * [Flag for Chrome](https://chrome.google.com/webstore/detail/flag-for-chrome/dbpojpfdiliekbbiplijcphappgcgjfn) - 在地址栏显示网站所在地区的国旗，还可以显示RP值和alexa排名。
     
-
+    
 ### 后端开发
 * 后台开发插件汇聚 
 
@@ -56,6 +57,10 @@
     * [Google文档](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - 使用Google文档、表格和幻灯片来查看和编辑Microsoft Word、Excel和PowerPoint文件。
     * [图像浏览器](https://chrome.google.com/webstore/detail/%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/jpampamblikognkmdnphbcajcmiaclmo) - 可以很好的查看独立打开的图片。 
     * [Coding](https://chrome.google.com/webstore/detail/coding/mcoonjbgbflfbolhagjdbnkcejopmjjo) - Coding 让开发更简单！ 
+    * [Visualping](https://chrome.google.com/webstore/detail/visualping/pemhgklkefakciniebenbfclihhmmfcd) - 内容更新实时提醒，抢购东西必备。
+    * [一键管理所有扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/niemebbfnfbjfojajlmnbiikmcpjkkja) - 一键管理所有插件，可以一键禁用所有插件。
+    * [word highlight](https://chrome.google.com/webstore/detail/word-highlight/ooabkmkhabkahcjbgpiajffckeibpdoa?hl=en) - 为您提供当前浏览网站的站内搜索功能。
+
 
 ### 设计
 * 设计师插件汇聚 
@@ -80,6 +85,7 @@
 
 ### 科学上网 
 * 科学上网插件整理 
+    * [Proxy Switchy!](https://chrome.google.com/webstore/detail/proxy-switchy/caehdcpeofiiigpdhbabniblemipncjj) - 自动代理切换，主要是翻墙用。
 
 ### 远程协助
 * 远程协助相关插件 
