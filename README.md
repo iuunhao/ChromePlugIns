@@ -1,8 +1,8 @@
 # Chrome Plug-in
 
-![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)
+![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)    ![](https://camo.githubusercontent.com/22e1b65eed48970bf556e3b5f2de315d453f82a8/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c6963656e73652f6d69742e737667)
 
-本仓库主要收集一些好用的Chrome Plug-in，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请Star、Pull Request或者使劲搓它 issues 给我推荐优秀好用的Chrome插件，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照READNE.md文件。
+本仓库主要收集一些好用的Chrome Plug-in，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者使劲搓它 [issues](https://github.com/iuunhao/ChromePlugIns/issues) 给我推荐优秀好用的Chrome插件，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照READNE.md文件。
 ## 目录
 
 - [通用](#通用)
@@ -56,12 +56,6 @@
     * [Google文档](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - 使用Google文档、表格和幻灯片来查看和编辑Microsoft Word、Excel和PowerPoint文件。
     * [图像浏览器](https://chrome.google.com/webstore/detail/%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/jpampamblikognkmdnphbcajcmiaclmo) - 可以很好的查看独立打开的图片。 
     * [Coding](https://chrome.google.com/webstore/detail/coding/mcoonjbgbflfbolhagjdbnkcejopmjjo) - Coding 让开发更简单！ 
-    * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Github文件树状结构，方便快速阅读文件。
-    * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Github文件树状结构，方便快速阅读文件。
-    * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Github文件树状结构，方便快速阅读文件。
-    * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Github文件树状结构，方便快速阅读文件。
-    * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Github文件树状结构，方便快速阅读文件。
-
 
 ### 设计
 * 设计师插件汇聚 
