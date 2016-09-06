@@ -41,7 +41,7 @@
     * [CSS Grady](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 可以快速调整浏览器窗口的尺寸，用于观察网站页面宽度。
     * [Flag for Chrome](https://chrome.google.com/webstore/detail/flag-for-chrome/dbpojpfdiliekbbiplijcphappgcgjfn) - 在地址栏显示网站所在地区的国旗，还可以显示RP值和alexa排名。
     * [CSS-Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=zh-CN) - 允许您创建图层样式（就像图像编辑软件），并将其导出为 CSS 文件，或者复制到剪贴板。
-    
+    * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=zh-CN) - 格式化JSON，非常好用。
     
 ### 后端开发
 * 后台开发插件汇聚 
@@ -65,6 +65,7 @@
     * [Any.do](https://chrome.google.com/webstore/detail/anydo/ocgddccilgpeepgglnlpchkpgamkgmld?hl=zh-CN) - GTD任务管理。
     * [番茄计时器](https://chrome.google.com/webstore/detail/pomodoro-timer/hfgjlgjnpkpmnpojkkpfkogapiclopop?hl=zh-CN) - 应用番茄工作法，使你提高专注及效率。
     * [500px Image Downloader](https://chrome.google.com/webstore/detail/500px-image-downloader/acjcbplodpbobhhldcnldfncadnglgmb?hl=zh-CN) - 500px图片右键下载。
+    * [莆田系医院网站提醒](https://chrome.google.com/webstore/detail/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E7%BD%91%E7%AB%99%E6%8F%90%E9%86%92/pihadmdiehanenijehoohjnpiaofmmng?hl=zh-CN) - 莆田系医院网站提醒，对于莆田系无良网站，将显示红色警告提示，并给出它的医院名字和所在城市。。
 
 ### 设计
 * 设计师插件汇聚 
@@ -73,6 +74,7 @@
     * [Color Picker and Converter](https://chrome.google.com/webstore/detail/color-picker-and-converte/ofkcpbjmhcdipbhcdfechmckpaofdjlf) - 一个色盘插件。
     * [ColorPicker](https://chrome.google.com/webstore/detail/color-picker/jcmgligingjhdnhdhgepemlckgcgmgaj?hl=zh-CN) - 一个网页拾色。
     * [Pixlr Editor](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?hl=zh-CN) - 离线版PhotoShop可以处理简单的图片。
+    * [IcoMoon](https://chrome.google.com/webstore/category/apps?hl=zh-CN) - 在线小icon可以直接选择引用。
 
 ### 产品
 * 产品经理用的一些插件
