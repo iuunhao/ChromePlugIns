@@ -22,7 +22,7 @@
 
 ### 通用
 * 一些通用的插件,这些插件很常用
-    * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告拦截插件。
+    * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告拦截插件。[查看缩略图](http://ww2.sinaimg.cn/large/006y8mN6jw1f7n5kld3ivj30710bjdgg.jpg)
     * [crxMouse Chrome Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) - 一个鼠标手势插件，非常好用。
     * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - 密码记录表单。
     * [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf) - 可以批量下载图片。
