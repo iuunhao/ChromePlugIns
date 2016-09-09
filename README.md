@@ -6,7 +6,7 @@
 本仓库主要收集一些好用的Chrome Plug-in，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者使劲搓它 [issues](https://github.com/iuunhao/ChromePlugIns/issues) 给我推荐优秀好用的Chrome插件，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照READNE.md文件
 
 ## 使用说明
-*  以下所有插件链接均为Google官方链接，需要先自行[翻墙](https://github.com/getlantern/lantern-binaries)方可打开。
+*  以下所有插件链接均为Google官方链接，需要先自行[翻墙](https://github.com/getlantern/forum)方可打开。
 
 
 ## 目录
