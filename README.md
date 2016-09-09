@@ -1,10 +1,26 @@
+<style>
+  ul img{ width: 10px; height: 10px; vertical-align: middle; border: 1px solid #20d0a7; }
+</style>
+
 # Chrome Plug-in
 
 ![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)    ![](https://camo.githubusercontent.com/22e1b65eed48970bf556e3b5f2de315d453f82a8/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c6963656e73652f6d69742e737667)
 
-本仓库主要收集一些好用的Chrome Plug-in，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者使劲搓它 [issues](https://github.com/iuunhao/ChromePlugIns/issues) 给我推荐优秀好用的Chrome插件，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照READNE.md文件。
+本仓库主要收集一些好用的Chrome Plug-in，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者使劲搓它 [issues](https://github.com/iuunhao/ChromePlugIns/issues) 给我推荐优秀好用的Chrome插件，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照READNE.md文件
 
-以下所有插件链接均为Google官方链接，需要先自行翻墙方可打开。
+> 缩略图请使用 [图床](http://www.yotuku.cn/) 工具上传，项目内不放图片。
+
+
+## 使用说明
+*  以下所有插件链接均为Google官方链接，需要先自行[翻墙](https://github.com/getlantern/lantern-binaries)方可打开。
+
+*  本项目部分插件附带`缩略图`，但为了不影响阅读，先先行安装 [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)插件。
+
+*  凡是插件描述后面附带类似的小图标![缩略图](http://ww3.sinaimg.cn/large/006y8mN6jw1f7n6r6szq4j300b00b0sk.jpg)，说明本插件附带`缩略图`。
+
+*  鼠标经过小缩略图可`放大`缩略图。
+
+
 ## 目录
 
 - [通用](#通用)
@@ -22,8 +38,8 @@
 
 ### 通用
 * 一些通用的插件,这些插件很常用
-    * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告拦截插件。[查看缩略图](http://ww2.sinaimg.cn/large/006y8mN6jw1f7n5kld3ivj30710bjdgg.jpg)
-    * [crxMouse Chrome Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) - 一个鼠标手势插件，非常好用。
+    * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告拦截插件。![查看缩略图](http://ww2.sinaimg.cn/large/006y8mN6jw1f7n5kld3ivj30710bjdgg.jpg)
+    * [crxMouse Chrome Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) - 一个鼠标手势插件，非常好用。![查看缩略图](http://ww3.sinaimg.cn/large/006y8mN6jw1f7n5ukon4uj30rd0f0wg8.jpg)
     * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - 密码记录表单。
     * [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf) - 可以批量下载图片。
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - 鼠标移动图片上会放大原图，看微博浏览图片很方便 。
@@ -74,7 +90,7 @@
     * [Color Picker and Converter](https://chrome.google.com/webstore/detail/color-picker-and-converte/ofkcpbjmhcdipbhcdfechmckpaofdjlf) - 一个色盘插件。
     * [ColorPicker](https://chrome.google.com/webstore/detail/color-picker/jcmgligingjhdnhdhgepemlckgcgmgaj?hl=zh-CN) - 一个网页拾色。
     * [Pixlr Editor](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?hl=zh-CN) - 离线版PhotoShop可以处理简单的图片。
-    * [IcoMoon](https://chrome.google.com/webstore/category/apps?hl=zh-CN) - 在线小icon可以直接选择引用。
+    * [IcoMoon](https://chrome.google.com/webstore/detail/icomoon/kppingdhhalimbaehfmhldppemnmlcjd?hl=zh-CN) - 在线小icon可以直接选择引用。
 
 ### 产品
 * 产品经理用的一些插件
