@@ -1,6 +1,3 @@
-<style>
-  ul img{ width: 10px; height: 10px; vertical-align: middle; border: 1px solid #20d0a7; }
-</style>
 
 # Chrome Plug-in
 
@@ -8,17 +5,8 @@
 
 本仓库主要收集一些好用的Chrome Plug-in，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者使劲搓它 [issues](https://github.com/iuunhao/ChromePlugIns/issues) 给我推荐优秀好用的Chrome插件，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照READNE.md文件
 
-> 缩略图请使用 [图床](http://www.yotuku.cn/) 工具上传，项目内不放图片。
-
-
 ## 使用说明
 *  以下所有插件链接均为Google官方链接，需要先自行[翻墙](https://github.com/getlantern/lantern-binaries)方可打开。
-
-*  本项目部分插件附带`缩略图`，但为了不影响阅读，先先行安装 [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)插件。
-
-*  凡是插件描述后面附带类似的小图标![缩略图](http://ww3.sinaimg.cn/large/006y8mN6jw1f7n6r6szq4j300b00b0sk.jpg)，说明本插件附带`缩略图`。
-
-*  鼠标经过小缩略图可`放大`缩略图。
 
 
 ## 目录
@@ -38,8 +26,8 @@
 
 ### 通用
 * 一些通用的插件,这些插件很常用
-    * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告拦截插件。![查看缩略图](http://ww2.sinaimg.cn/large/006y8mN6jw1f7n5kld3ivj30710bjdgg.jpg)
-    * [crxMouse Chrome Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) - 一个鼠标手势插件，非常好用。![查看缩略图](http://ww3.sinaimg.cn/large/006y8mN6jw1f7n5ukon4uj30rd0f0wg8.jpg)
+    * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - 广告拦截插件。
+    * [crxMouse Chrome Gestures](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) - 一个鼠标手势插件，非常好用。
     * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - 密码记录表单。
     * [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf) - 可以批量下载图片。
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - 鼠标移动图片上会放大原图，看微博浏览图片很方便 。
