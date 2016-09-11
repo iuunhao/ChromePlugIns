@@ -152,19 +152,6 @@
     * [在线API文档](http://devdocs.io) - 很全面的在线API文档。
     * [百度翻译](http://fanyi.baidu.com) - 百度在线翻译。
     * [有道翻译](http://fanyi.youdao.com) - 有道在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
-    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
 
 ### Tampermonkey脚本
 * 以下三个站点为脚本集合站，拥有大量的脚本，也是官方推荐的站点
