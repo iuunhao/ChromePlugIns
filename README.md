@@ -36,7 +36,13 @@
     * [CSS-Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=zh-CN) - 允许您创建图层样式（就像图像编辑软件），并将其导出为 CSS 文件，或者复制到剪贴板。
     * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=zh-CN) - 格式化JSON，非常好用。
     * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - 前端程序员不可缺少的插件Postman。
-    
+    * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 可以查看网站使用了哪些框架。
+    * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies。
+    * [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - 调试AngularJS插件。
+    * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Vuejs调试插件。
+   
+
+
 ### 后端开发
 * 后台开发插件汇聚 
 
@@ -70,7 +76,7 @@
     * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - 鼠标移动图片上会放大原图，看微博浏览图片很方便 。
     * [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe) - 可以根据自己喜好自定义修改页面css样式。
     * [百度识图](http://image.baidu.com/?fr=shitu) - 百度识图插件版。
-    * [支付宝安全插件](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - 支付宝安全插件，网购的必须安装。j
+    * [支付宝安全插件](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - 支付宝安全插件，网购的必须安装。
     * [ChromeReloadPlus](https://chrome.google.com/webstore/detail/chromereloadplus/nbbpjdmdkcmpimmhloehkojhbhjlboog) - 网页定时自动刷新。
 
 
