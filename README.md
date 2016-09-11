@@ -78,6 +78,8 @@
     * [百度识图](http://image.baidu.com/?fr=shitu) - 百度识图插件版。
     * [支付宝安全插件](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - 支付宝安全插件，网购的必须安装。
     * [ChromeReloadPlus](https://chrome.google.com/webstore/detail/chromereloadplus/nbbpjdmdkcmpimmhloehkojhbhjlboog) - 网页定时自动刷新。
+    * [哔哩哔哩助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh) - 哔哩哔哩弹幕网辅助扩展，可以替换HTML5播放器、绕过区域限制、推送通知并进行一些快捷操作。
+    * [百度贴吧助手](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%8A%A9%E6%89%8B/ndjhhagfolibokijbgljdmgibmpdfdmj) - 百度贴吧自动签到，自定义表情，阅读魔法书，翻转帖子中图片，设置朋友昵称，自定义背景图，一键换号，大召唤系统，吧务工具扫描广告贴，等等。
 
 
 ### 设计
