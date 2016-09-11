@@ -5,6 +5,18 @@
 
 本仓库主要收集一些好用的Chrome插件，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者给我提交您所知道的插件[issues](https://github.com/iuunhao/ChromePlugIns/issues)，让我们一起高效的工作，学习，生活，享受互联网给我们带来的便捷，格式参照READNE.md文件。
 
+
+如果你使用issues添加，请给我以下内容，方便归类添加:
+
+> 插件名称：(名称)
+
+> 插件性质：(开发，设计，辅助)
+
+> 插件地址：(尽量为Google官方链接)
+
+> 插件描述：(插件用途描述)
+
+
 ## 使用说明
 *  以下所有插件链接均为Google官方链接，需要先自行[翻墙](https://github.com/getlantern/forum)方可打开。
 
