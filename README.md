@@ -3,7 +3,7 @@
 
 ![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)    ![](https://camo.githubusercontent.com/22e1b65eed48970bf556e3b5f2de315d453f82a8/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c6963656e73652f6d69742e737667)
 
-本仓库主要收集一些好用的Chrome Plug-in，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者使劲搓它 [issues](https://github.com/iuunhao/ChromePlugIns/issues) 给我推荐优秀好用的Chrome插件，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照READNE.md文件
+本仓库主要收集一些好用的Chrome插件，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者给我提交您所知道的插件[issues](https://github.com/iuunhao/ChromePlugIns/issues)，让我们一起高效的工作，学习，生活，享受互联网给我们带来的便捷，格式参照READNE.md文件。
 
 ## 使用说明
 *  以下所有插件链接均为Google官方链接，需要先自行[翻墙](https://github.com/getlantern/forum)方可打开。
