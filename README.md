@@ -70,6 +70,8 @@
     * [番茄计时器](https://chrome.google.com/webstore/detail/pomodoro-timer/hfgjlgjnpkpmnpojkkpfkogapiclopop?hl=zh-CN) - 应用番茄工作法，使你提高专注及效率。
     * [500px Image Downloader](https://chrome.google.com/webstore/detail/500px-image-downloader/acjcbplodpbobhhldcnldfncadnglgmb?hl=zh-CN) - 500px图片右键下载。
     * [莆田系医院网站提醒](https://chrome.google.com/webstore/detail/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E7%BD%91%E7%AB%99%E6%8F%90%E9%86%92/pihadmdiehanenijehoohjnpiaofmmng?hl=zh-CN) - 莆田系医院网站提醒，对于莆田系无良网站，将显示红色警告提示，并给出它的医院名字和所在城市。。
+    * [迅雷、QQ旋风-链接自动转换](https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E3%80%81qq%E6%97%8B%E9%A3%8E-%E9%93%BE%E6%8E%A5%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2/pfgjjlnidkopfimlhcfcjhakhifbnmof?hl=zh-CN) - 自动转换迅雷、QQ旋风、快车专用链的工具。
+
 
 ### 设计
 * 设计师插件汇聚 
