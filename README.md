@@ -48,12 +48,19 @@
     * [CSS-Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=zh-CN) - 允许您创建图层样式（就像图像编辑软件），并将其导出为 CSS 文件，或者复制到剪贴板。
     * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=zh-CN) - 格式化JSON，非常好用。
     * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - 前端程序员不可缺少的插件Postman。
-    * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 可以查看网站使用了哪些框架。
+    * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - 检测网站使用的架构。
     * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies。
     * [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - 调试AngularJS插件。
     * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Vuejs调试插件。
+    * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - 各种Web开发小功能。
+    * [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - YSlow可以分析网页，并为改善网页性能提出修改建议，这些功能基于高性能网页的规则集。
+    * [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam) - Chrome地址栏中以图标形式提示JavaScript错误。
+    * [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 此扩展可以调整浏览器窗口的大小，以适应各种屏幕分辨率。
+    * [jQuery Shell](Window Resizer) - jQuery扩展让你在当前网页中运行JavaScript和jQuery命令。
+    * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - 查看当前页面使用了哪些字体。
+    * [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/piekbefgpgdecckjcpffhnacjflfoddg) - 使Javascript文件更容易阅读，添加高亮，格式化。
+    * [Firebug Lite](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench?hl=zh-CN) - Firebug的精简版。
    
-
 
 ### 后端开发
 * 后台开发插件汇聚 
@@ -92,7 +99,7 @@
     * [ChromeReloadPlus](https://chrome.google.com/webstore/detail/chromereloadplus/nbbpjdmdkcmpimmhloehkojhbhjlboog) - 网页定时自动刷新。
     * [哔哩哔哩助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh) - 哔哩哔哩弹幕网辅助扩展，可以替换HTML5播放器、绕过区域限制、推送通知并进行一些快捷操作。
     * [百度贴吧助手](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%8A%A9%E6%89%8B/ndjhhagfolibokijbgljdmgibmpdfdmj) - 百度贴吧自动签到，自定义表情，阅读魔法书，翻转帖子中图片，设置朋友昵称，自定义背景图，一键换号，大召唤系统，吧务工具扫描广告贴，等等。
-
+    * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc?hl=zh-CN) - 打开了很多网页并且还没消化完网页的信息就要关机时，又不想收藏，可以加个会话，以后想看可以继续看。 
 
 ### 设计
 * 设计师插件汇聚 
@@ -102,6 +109,11 @@
     * [ColorPicker](https://chrome.google.com/webstore/detail/color-picker/jcmgligingjhdnhdhgepemlckgcgmgaj?hl=zh-CN) - 一个网页拾色。
     * [Pixlr Editor](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?hl=zh-CN) - 离线版PhotoShop可以处理简单的图片。
     * [IcoMoon](https://chrome.google.com/webstore/detail/icomoon/kppingdhhalimbaehfmhldppemnmlcjd?hl=zh-CN) - 在线小icon可以直接选择引用。
+    * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - 网页取色器。
+    * [MeasureIt!](https://chrome.google.com/extensions/detail/aonjhmdcgbgikgjapjckfkefpphjpgma) - 测量一个网站中的任何元素的尺寸。
+    * [The Microstock Photo Power Search Tool!](https://chrome.google.com/webstore/detail/the-microstock-photo-powe/ehipnpjjaejnoajfkkgonkhpkpiocekl?hl=zh-CN) - 一个强力的图片搜索工具。
+    * [Palette Creator](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod?hl=zh-CN) - 您只需右键点击任何图片。此插件可以创建一个16、24或32调色板。
+
 
 ### 产品
 * 产品经理用的一些插件
@@ -140,6 +152,18 @@
     * [在线API文档](http://devdocs.io) - 很全面的在线API文档。
     * [百度翻译](http://fanyi.baidu.com) - 百度在线翻译。
     * [有道翻译](http://fanyi.youdao.com) - 有道在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
+    * [Google翻译](http://translate.google.cn/) - Google在线翻译。
     * [Google翻译](http://translate.google.cn/) - Google在线翻译。
 
 ### Tampermonkey脚本
