@@ -18,7 +18,7 @@
 
 
 ## 使用说明
-*  以下所有插件链接均为Google官方链接，需要先自行[翻墙](https://github.com/getlantern/forum)方可打开。
+*  以下所有插件链接均为Google官方链接，需要先自行[翻墙(点我马上翻墙)](https://github.com/getlantern/forum)方可打开。
 
 
 ## 目录
@@ -100,7 +100,7 @@
     * [哔哩哔哩助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh) - 哔哩哔哩弹幕网辅助扩展，可以替换HTML5播放器、绕过区域限制、推送通知并进行一些快捷操作。
     * [百度贴吧助手](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%8A%A9%E6%89%8B/ndjhhagfolibokijbgljdmgibmpdfdmj) - 百度贴吧自动签到，自定义表情，阅读魔法书，翻转帖子中图片，设置朋友昵称，自定义背景图，一键换号，大召唤系统，吧务工具扫描广告贴，等等。
     * [Session Manager](https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc?hl=zh-CN) - 打开了很多网页并且还没消化完网页的信息就要关机时，又不想收藏，可以加个会话，以后想看可以继续看。 
-
+    * [Papier](https://chrome.google.com/webstore/detail/papier/hhjeaokafplhjoogdemakihhdhffacia?hl=zh-CN) - 一个记事本，很简约。 
 ### 设计
 * 设计师插件汇聚 
     * [Text Mode](https://chrome.google.com/webstore/detail/text-mode/adelhekhakakocomdfejiipdnaadiiib) - 黑白显示页面，图片将替换成色块方便查看页面布局是否合理。
@@ -152,6 +152,7 @@
     * [在线API文档](http://devdocs.io) - 很全面的在线API文档。
     * [百度翻译](http://fanyi.baidu.com) - 百度在线翻译。
     * [有道翻译](http://fanyi.youdao.com) - 有道在线翻译。
+    * [JSBin](http://jsbin.com/) - 一个在线编辑器，写demo不错。
 
 ### Tampermonkey脚本
 * 以下三个站点为脚本集合站，拥有大量的脚本，也是官方推荐的站点
