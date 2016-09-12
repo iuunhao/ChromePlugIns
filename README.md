@@ -18,7 +18,7 @@
 
 
 ## 使用说明
-*  以下所有插件链接均为Google官方链接，需要先自行[翻墙(点我马上翻墙)](https://github.com/getlantern/forum)方可打开。
+*  以下所有插件链接均为Google官方链接，需要先自行[翻墙(点我马上翻墙)](https://github.com/getlantern/lantern-binaries)方可打开。
 
 
 ## 目录
