@@ -60,7 +60,12 @@
     * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - 查看当前页面使用了哪些字体。
     * [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/piekbefgpgdecckjcpffhnacjflfoddg) - 使Javascript文件更容易阅读，添加高亮，格式化。
     * [Firebug Lite](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench?hl=zh-CN) - Firebug的精简版。
-   
+    * [SnappySnippet](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil?hl=en) - 抽离页面组件代码。
+    * [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif/related?hl=en-GB) - 快速验证你的 HTMl 文档明显错误。
+    * [Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg?hl=en) 移动端页面适配利器。
+    * [Chrome Sniffer Plus](https://chrome.google.com/webstore/detail/chrome-sniffer-plus/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) 查看网站使用了哪些技术。
+    * [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) 清除页面缓存。
+    * [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) 快速启动小项目或Demo的神器。
 
 ### 后端开发
 * 后台开发插件汇聚 
