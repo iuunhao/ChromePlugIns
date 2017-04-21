@@ -248,6 +248,7 @@
     * [GitHub Sort Content](https://greasyfork.org/zh-CN/scripts/21373-github-sort-content) - Github排序脚本。
     * [GitHub Diff Links](https://greasyfork.org/zh-CN/scripts/21559-github-diff-links) - 添加当前文件版本前后按钮方便对比代码。
 
-
+## 贡献者
+* [@Pearyman](https://github.com/Pearyman)
 
 
