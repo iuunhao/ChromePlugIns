@@ -12,7 +12,23 @@
 </p>
 
 <br>
-
+<p align="center">
+<a href="https://github.com/iuunhao/ChromePlugIns/issues">
+		<img src="https://img.shields.io/github/issues/iuunhao/ChromePlugIns.svg">
+	</a>
+	<a href="https://github.com/iuunhao/ChromePlugIns/stargazers">
+		<img src="https://img.shields.io/github/stars/iuunhao/ChromePlugIns.svg">
+	</a>
+	<a href="https://img.shields.io/github/forks/iuunhao/ChromePlugIns.svg">
+		<img src="https://img.shields.io/github/stars/iuunhao/ChromePlugIns.svg">
+	</a>
+	<a href="https://github.com/iuunhao/ChromePlugIns">
+		<img src="https://img.shields.io/chrome-web-store/stars/nimelepbpejjlbmoobocpfnjhihnpked.svg">
+	</a>
+    <a href="https://github.com/iuunhao/ChromePlugIns">
+		<img src="https://img.shields.io/packagist/l/doctrine/orm.svg">
+	</a>
+</p>
 <br>
 
 <p align="center">
@@ -21,9 +37,7 @@
 
 <br>
 <br>
-<br>
 
-[![GitHub issues](https://img.shields.io/github/issues/iuunhao/ChromePlugIns.svg)](https://github.com/iuunhao/ChromePlugIns/issues) [![GitHub stars](https://img.shields.io/github/stars/iuunhao/ChromePlugIns.svg)](https://github.com/iuunhao/ChromePlugIns/stargazers) [![GitHub stars](https://img.shields.io/github/stars/iuunhao/ChromePlugIns.svg)](https://github.com/iuunhao/ChromePlugIns/stargazers) [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/nimelepbpejjlbmoobocpfnjhihnpked.svg)](https://github.com/iuunhao/ChromePlugIns) [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/iuunhao/ChromePlugIns)
 ## 简介
 这个仓库主要收集一些好用的Chrome插件，主要偏向于开发者及日常使用。
 
