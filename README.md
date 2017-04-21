@@ -1,24 +1,51 @@
+<h1 align="center">
+	<img width="" src="./logo.svg" alt="Awesome">
+	<br>
+	<br>
+</h1>
 
-# Chrome Plug-in
+<br>
+<br>
 
-![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)    ![](https://camo.githubusercontent.com/22e1b65eed48970bf556e3b5f2de315d453f82a8/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c6963656e73652f6d69742e737667)
+<p align="center">
+	<b>✨ 它使我们高效工作 因它而快乐✨</b>
+</p>
 
-本仓库主要收集一些好用的Chrome插件，偏向于开发者和日常使用。持续更新，搜集更多好用的插件。请`Star`、[Pull Request](https://github.com/iuunhao/ChromePlugIns/pulls)或者给我提交您所知道的插件[issues](https://github.com/iuunhao/ChromePlugIns/issues)，让我们一起高效的工作，学习，生活，享受互联网给我们带来的便捷，格式参照READNE.md文件。
+<br>
 
+<br>
 
-您也可以使用[issues](https://github.com/iuunhao/ChromePlugIns/issues)来告诉我，您所知道的插件。
+<p align="center">
+	<sub>Just type <a href="https://github.com/iuunhao/Awesome-ChromePlug"><code>Awesome-ChromePlug</code></a>Let's work together to study and live happily.</sub>
+</p>
 
-> 插件名称：(名称)
+<br>
+<br>
+<br>
 
-> 插件性质：(开发，设计，辅助)
+## 简介
+这个仓库主要手机一些好用的Chrome插件，主要偏向于开发者及日常使用。
 
-> 插件地址：(尽量为Google官方链接)
+它们可以使得我们的工作生活，更加高效。
 
-> 插件描述：(插件用途描述)
+我们需要这些插件帮助我们更好的完成工作，同时也将这些插件分享你。
+
+该项目会持续更新。
+
+格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
+
+您也可以使用[issues](https://github.com/iuunhao/ChromePlugIns/issues)来告诉我，您认为值得推荐插件。
+
+```md
+插件名称：(名称)
+插件性质：(开发，设计，辅助)
+插件地址：(尽量为Google官方链接)
+插件描述：(插件用途描述)
+```
 
 
 ## 使用说明
-*  以下所有插件链接均为Google官方链接，需要先自行[翻墙(点我马上翻墙)](https://github.com/getlantern/lantern-binaries)方可打开。
+以下所有插件链接均为Google官方链接，需要先自行[翻墙(点我马上翻墙)](https://github.com/getlantern/lantern-binaries)方可打开。
 
 
 ## 目录
