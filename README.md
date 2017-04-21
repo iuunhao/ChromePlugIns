@@ -1,33 +1,34 @@
 <h1 align="center">
-	<img width="300" src="./logoImg2.png" alt="Awesome">
+    <img width="300" src="./logoImg2.png" alt="Awesome">
     <br> 
     <p align="center">
-    <a href="https://github.com/iuunhao/ChromePlugIns/issues">
-            <img src="https://img.shields.io/github/issues/iuunhao/ChromePlugIns.svg">
-        </a>
-        <a href="https://github.com/iuunhao/ChromePlugIns/stargazers">
-            <img src="https://img.shields.io/github/stars/iuunhao/ChromePlugIns.svg">
-        </a>
-        <a href="https://github.com/iuunhao/ChromePlugIns/network">
-            <img src="https://img.shields.io/github/forks/iuunhao/ChromePlugIns.svg">
-        </a>
-        <a href="https://github.com/iuunhao/ChromePlugIns">
-            <img src="https://img.shields.io/chrome-web-store/stars/nimelepbpejjlbmoobocpfnjhihnpked.svg">
-        </a>
-        <a href="https://github.com/iuunhao/ChromePlugIns">
-            <img src="https://img.shields.io/packagist/l/doctrine/orm.svg">
-        </a>
-    </p>
-	<br>
-</h1>
+     
+<a href="https://github.com/iuunhao/ChromePlugIns/stargazers">
+    <img src="https://img.shields.io/github/stars/iuunhao/ChromePlugIns.svg" alt="">
+</a>
+<a href="https://github.com/iuunhao/ChromePlugIns/network">
+    <img src="https://img.shields.io/github/forks/iuunhao/ChromePlugIns.svg" alt="">
+</a>
+<a href="https://github.com/iuunhao/ChromePlugIns/issues"></a>
+<img src="https://img.shields.io/github/issues/iuunhao/ChromePlugIns.svg" alt="">
+<a href="https://github.com/iuunhao/ChromePlugIns">
+    <img src="https://img.shields.io/github/issues-closed-raw/iuunhao/ChromePlugIns.svg" alt="">
+</a>
+<a href="https://github.com/iuunhao/ChromePlugIns">
+    <img src="https://img.shields.io/github/contributors/iuunhao/ChromePlugIns.svg" alt="">
+</a>
+<a href="https://github.com/iuunhao/ChromePlugIns">
+    <img src="https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87-ff69b4.svg" alt="">
+</a>    </p>
+    <br>
+</h1> 
 <br>
 <br>
-<p align="center">
-	<b>✨ 它使我们高效工作 因它而快乐✨</b>
+<p align="center">  <b>✨ 它使我们高效工作 因它而快乐✨</b>
 </p>
 <br>
-<p align="center">
-	<sub>Just type <a href="https://github.com/iuunhao/Awesome-ChromePlug"><code>Awesome-ChromePlug</code></a>Let's work together to study and live happily.</sub>
+<p align="center">  <sub>Just type <a href="https://github.com/iuunhao/Awesome-ChromePlug"><code>Awesome-ChromePlug</code></a>Let's work together to study and live happily.</sub>
+ 
 </p>
 <br>
 <br>
