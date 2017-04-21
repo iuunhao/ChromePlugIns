@@ -23,6 +23,7 @@
 <br>
 <br>
 
+[![Github上发布](https://img.shields.io/github/downloads/atom/atom/latest/total.svg?style=flat-square)](https://github.com/iuunhao/ChromePlugIns) [![Chrome网上应用店](https://img.shields.io/chrome-web-store/v/nimelepbpejjlbmoobocpfnjhihnpked.svg?style=flat-square)](https://github.com/iuunhao/ChromePlugIns) [![GitHub的明星](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star&style=flat-square)](https://github.com/iuunhao/ChromePlugIns) [![GitHub上叉](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=flat-square)](https://github.com/iuunhao/ChromePlugIns) [![GitHub上的问题](https://img.shields.io/github/issues/badges/shields.svg?style=flat-square)](https://github.com/iuunhao/ChromePlugIns) [![GitHub上已解决的问题](https://img.shields.io/github/issues-closed/badges/shields.svg?style=flat-square)](https://github.com/iuunhao/ChromePlugIns) [![GitHub的贡献者](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg?style=flat-square)](https://github.com/iuunhao/ChromePlugIns) [![发行统计](https://img.shields.io/issuestats/p/github/strongloop/express.svg?style=flat-square)](https://github.com/iuunhao/ChromePlugIns)
 ## 简介
 这个仓库主要收集一些好用的Chrome插件，主要偏向于开发者及日常使用。
 
