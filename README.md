@@ -80,11 +80,11 @@
 
 ### 前端开发
 * 前段开发必备插件  
-    * [Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim) - 高亮HTML、CSS、JS代码
-   * [Fed_Navigation](https://chrome.google.com/webstore/detail/%E5%89%8D%E7%AB%AF%E5%AF%BC%E8%88%AA/kimhkkondjpjhnllknndckjppgbjnjai?hl=zh-CN%EF%BC%89) - 前端及其设计必备网站导航插件，很赞。
+    * [Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim) - 高亮HTML、CSS、JS代码
+    * [Fed_Navigation](https://chrome.google.com/webstore/detail/%E5%89%8D%E7%AB%AF%E5%AF%BC%E8%88%AA/kimhkkondjpjhnllknndckjppgbjnjai?hl=zh-CN%EF%BC%89) - 前端及其设计必备网站导航插件，很赞。
     * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - ReactJs开发者工具。
     * [PageSpeed Insights (with PNaCl)](https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh) - 页面优化检测。
-    * [WEB前端助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - 百度出的一款前段小工具集合，很好用。
+    * [WEB前端助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - 百度出的一款前端小工具集合，很好用。
     * [RegExp Tester](https://chrome.google.com/webstore/detail/regexp-tester/fekbbmalpajhfifodaakkfeodkpigjbk) - 正则表达式测试工具。
     * [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo) - 测试HTTP请求。
     * [CSS Grady](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 可以快速调整浏览器窗口的尺寸，用于观察网站页面宽度。
