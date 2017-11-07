@@ -100,7 +100,7 @@
     * [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - YSlow可以分析网页，并为改善网页性能提出修改建议，这些功能基于高性能网页的规则集。
     * [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator/dmpfoncmmihgkooacnplecaopcefceam) - Chrome地址栏中以图标形式提示JavaScript错误。
     * [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) - 此扩展可以调整浏览器窗口的大小，以适应各种屏幕分辨率。
-    * [jQuery Shell](Window Resizer) - jQuery扩展让你在当前网页中运行JavaScript和jQuery命令。
+    * [jQuerify](https://chrome.google.com/webstore/detail/jquerify/gbmifchmngifmadobkcpijhhldeeelkc?hl=zh-CN) - jQuery扩展让你在当前网页中运行JavaScript和jQuery命令。
     * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - 查看当前页面使用了哪些字体。
     * [Pretty Beautiful Javascript](https://chrome.google.com/webstore/detail/piekbefgpgdecckjcpffhnacjflfoddg) - 使Javascript文件更容易阅读，添加高亮，格式化。
     * [Firebug Lite](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench?hl=zh-CN) - Firebug的精简版。
